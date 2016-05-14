@@ -1,2 +1,0 @@
-# ACI
-ACI group project
